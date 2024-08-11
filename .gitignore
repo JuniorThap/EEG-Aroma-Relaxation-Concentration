@@ -1,0 +1,15 @@
+MendeleyEEG/
+fif/
+__MACOSX/
+Database for Emotion Recognition System Based on EEG Signals and Various Computer Games - GAMEEMO/
+20_event_arrays.ipynb
+avg_compare_result_afirst.json
+avg_compare_result.json
+EEG_FeatureExtraction.ipynb
+eeg_fusion_relax_concentrate_time_series.csv
+eeg_fusion_relax_concentrate_window.csv
+featureextract.ipynb
+raws.pkl
+raws2.pkl
+raws3.pkl
+time_frequency_global_field_power.ipynb
