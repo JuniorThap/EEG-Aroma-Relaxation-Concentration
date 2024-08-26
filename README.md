@@ -24,7 +24,7 @@
   * Read the EEG files using `mne.io.Raw(fname)` to convert them into MNE Raw objects.
   * Divide the EEG data into chunks with a fixed `window_size` and `stride`, and pad the chunks to the same size.
   * Filter the chunks into activity bands, such as `Delta (0.5-4 Hz)`, `Theta (4-8 Hz)`, `Alpha (8-13 Hz)`, and `Beta (13-30 Hz)`
-  * Calculate GFP (Global Field Power) for each activity band.
+  * Calculate the average of GMFP (Global Mean Field Power) for each activity band in each chunk.
   * Compare each aroma to A0 (No aroma), calculate the mean of those comparisons across subjects, and save the results.
 
   **Note:** Only the Alpha and Beta bands are used to analyze relaxation and concentration in the final results.
