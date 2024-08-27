@@ -1,4 +1,9 @@
 Name,Aroma_ID,Relax (first 6 sec) %,Relax (last 3 sec) %,Concentrate (first 6 sec) %,Concentrate (last 3 sec) %
+atin,0,100.0,100.0,100.0,100.0
+atin,1,95.31,101.25,95.28,94.18
+atin,2,90.24,99.2,95.42,105.54
+atin,3,129.88,78.07,138.12,84.94
+atin,4,120.66,136.17,121.49,150.16
 chongta,0,100.0,100.0,100.0,100.0
 chongta,1,100.59,144.09,99.73,126.79
 chongta,2,97.76,116.88,89.0,116.81
